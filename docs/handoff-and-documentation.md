@@ -24,11 +24,11 @@ Same bar as ServeIT partner site handoffs: the person running the business day-t
 4. Who do I call when something goes wrong?
 5. When do I need to decide about renewal or exit?
 
-If they can't answer from your deliverable, the handoff failed — regardless of how thorough the underlying legal review was.
+If they can't answer from your deliverable, the handoff failed ... regardless of how thorough the underlying legal review was.
 
 ## Recommended deliverable stack (private work product)
 
-Keep these **local** or in client-controlled storage — not in this public repo:
+Keep these **local** or in client-controlled storage ... not in this public repo:
 
 | Artifact | Purpose |
 |----------|---------|
@@ -40,22 +40,22 @@ Keep these **local** or in client-controlled storage — not in this public repo
 
 ## Plain-language rules
 
-1. **Name the trigger** — "If X happens, tenant pays within Y days" beats "pursuant to Section 12."
-2. **Use dollars and dates** — ranges only when the lease itself is formula-based.
-3. **Separate must-do from nice-to-know** — operators skim under stress.
-4. **ELI5 the cross-references** — Section 5(B) feeding Section 8(C) is where people get lost.
-5. **No false certainty** — flag "needs attorney confirmation" honestly.
+1. **Name the trigger** ... "If X happens, tenant pays within Y days" beats "pursuant to Section 12."
+2. **Use dollars and dates** ... ranges only when the lease itself is formula-based.
+3. **Separate must-do from nice-to-know** ... operators skim under stress.
+4. **ELI5 the cross-references** ... Section 5(B) feeding Section 8(C) is where people get lost.
+5. **No false certainty** ... flag "needs attorney confirmation" honestly.
 
 ## Documentation hygiene
 
 - Version summaries when amendments arrive
 - Date-stamp CAM estimates vs. actual reconciliations
-- Log estoppel / SNDA requests — they recur at refinance and sale
+- Log estoppel / SNDA requests ... they recur at refinance and sale
 - Never mix multiple tenants' materials in one folder without access controls
 
 ## Public patterns only here
 
-This repo publishes **generic checklists and process framing**. Client-specific summaries stay out of git — see [CONTRIBUTING.md](../CONTRIBUTING.md).
+This repo publishes **generic checklists and process framing**. Client-specific summaries stay out of git ... see [CONTRIBUTING.md](../CONTRIBUTING.md).
 
 ## Parallel to clinic handoffs
 

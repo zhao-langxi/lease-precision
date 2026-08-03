@@ -7,7 +7,7 @@
 
 Most lease pain is not dramatic betrayal. It is **slow precision failure**: a CAM reconciliation nobody tracked, a personal guarantee buried in an exhibit, a maintenance clause that shifts a \$15k HVAC bill to the tenant, a renewal window that closes without a calendar reminder.
 
-"Lease precision" means treating those details with the same seriousness as a production deploy checklist — because the business lives inside the contract.
+"Lease precision" means treating those details with the same seriousness as a production deploy checklist ... because the business lives inside the contract.
 
 ## What this repo is
 
@@ -34,7 +34,7 @@ Same throughline as ServeIT clinic builds: **the handoff matters more than the d
 
 ## How docs evolve
 
-These are **outlines and checklists**, not finished treatises. I add when a pattern repeats across deals — same "ship it slow" rule as code.
+These are **outlines and checklists**, not finished treatises. I add when a pattern repeats across deals ... same "ship it slow" rule as code.
 
 See also:
 

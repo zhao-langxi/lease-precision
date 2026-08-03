@@ -30,7 +30,7 @@ Thank you for helping improve public-safe lease process documentation.
 
 1. Open an issue describing the gap or proposed addition.
 2. Fork and branch, or ask for write access on `zhao-langxi/lease-precision`.
-3. Keep tone plain and honest — outlines are fine; don't invent deal experience.
+3. Keep tone plain and honest ... outlines are fine; don't invent deal experience.
 4. Privacy check: would this expose a private client or family business? If yes, don't commit it.
 
 ## Commit authorship

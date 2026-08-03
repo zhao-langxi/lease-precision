@@ -9,8 +9,8 @@ Public portfolio frame: drawn to the unglamorous parts of systems everyone else 
 
 | Room | Unglamorous work |
 |------|------------------|
-| Family restaurant | Orders, inventory, customer contact — system survives or it doesn't |
-| Commercial lease | Clauses, CAM, guaranties — precision that compounds quietly |
+| Family restaurant | Orders, inventory, customer contact ... system survives or it doesn't |
+| Commercial lease | Clauses, CAM, guaranties ... precision that compounds quietly |
 | ServeIT Clinic | WCAG baselines, chunk maps, partner handoffs staff can maintain |
 | Madrid semester | Bureaucratic friction when you're the outsider |
 | Personal builds | Test on myself before anyone else's opinion |
@@ -26,7 +26,7 @@ Not five separate careers. One wiring.
 | [madrid-ai-ethics](https://github.com/zhao-langxi/madrid-ai-ethics) | Abroad systems learning + public AI ethics framing |
 | **lease-precision** (this repo) | Commercial lease review process + operator handoff patterns |
 
-Together they are bookmarks for **how I work** — not a startup pitch deck.
+Together they are bookmarks for **how I work** ... not a startup pitch deck.
 
 ## What transfers across rooms
 
@@ -41,7 +41,7 @@ Together they are bookmarks for **how I work** — not a startup pitch deck.
 
 - **No private research or participant-data framing** anywhere in these public repos
 - **No private lease PDFs** in lease-precision (unlike clinic repos that link to shipped public partner sites)
-- **No legal advice** — process only; counsel for binding calls
+- **No legal advice** ... process only; counsel for binding calls
 
 ## Portfolio links
 

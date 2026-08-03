@@ -10,7 +10,7 @@ Portfolio throughline: drawn to the unglamorous parts of systems everyone else s
 
 Commercial leases are long, cross-referenced, and written for lawyers who already know the vocabulary. Small business tenants often sign without a plain-language map of what they owe, when, and what triggers default. This repo collects **public-safe** checklists and documentation patterns I use when helping operators understand their obligations — without publishing client documents, executed agreements, or identifying details.
 
-**Not in scope:** IRB/clinical research, housing-tenant advocacy tooling, or automated legal advice products. Community digital work lives in [local-digital](https://github.com/zhao-langxi/local-digital); accessibility guides in [serveit-accessibility](https://github.com/zhao-langxi/serveit-accessibility).
+**Not in scope:** Private research or participant data, housing-tenant advocacy tooling, or automated legal advice products. Community digital work lives in [local-digital](https://github.com/zhao-langxi/local-digital); accessibility guides in [serveit-accessibility](https://github.com/zhao-langxi/serveit-accessibility).
 
 ## What's in here
 

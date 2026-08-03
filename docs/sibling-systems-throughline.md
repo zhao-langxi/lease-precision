@@ -39,7 +39,7 @@ Together they are bookmarks for **how I work** — not a startup pitch deck.
 
 ## What stays separate
 
-- **No clinical / IRB / ProHealth framing** anywhere in these public repos
+- **No private research or participant-data framing** anywhere in these public repos
 - **No private lease PDFs** in lease-precision (unlike clinic repos that link to shipped public partner sites)
 - **No legal advice** — process only; counsel for binding calls
 

@@ -21,8 +21,8 @@ Thank you for helping improve public-safe lease process documentation.
 
 - Executed leases, redlines, or amendment PDFs
 - Client names, addresses, entity names, or deal-specific dollar amounts
-- Family or private working-folder materials from `jadezhao1/` or similar paths
-- Clinical, IRB, or ProHealth research materials
+- Family or private working-folder materials
+- Private research materials, participant data, or non-public lab work
 - Legal advice presented as authoritative for a jurisdiction
 - AI co-author trailers on commits
 

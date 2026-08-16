@@ -28,6 +28,24 @@ Commercial leases are long, cross-referenced, and written for lawyers who alread
 3. **No surprise dependencies** ... CAM, taxes, insurance, personal guarantees, and renewal options belong in one honest timeline.
 4. **Public-safe only** ... Process and patterns here; executed leases and client materials stay local.
 
+## Legal concepts already named in these notes
+
+These terms appear in the checklists and handoff docs. Naming them is the point of a first-pass structural read. **Not legal advice.**
+
+| Concept | Where it shows up |
+|---------|-------------------|
+| Commercial retail lease redlining / clause review | [clause-review-checklist](docs/clause-review-checklist.md) |
+| Contract review (parties, premises, term, rent stack) | checklist §§1 to 3 |
+| CAM (common area maintenance), real estate tax pass-through, percentage rent | checklist §3 |
+| Pay-without-setoff, security deposit, holdover | checklist §§4, 2 |
+| HVAC / maintenance split, code compliance | checklist §6 |
+| Insurance, indemnity, waiver of subrogation | checklist §8 |
+| Default, cure periods, personal / corporate guaranty | checklist §§9 to 10 |
+| Estoppel certificates; SNDA (subordination, non-disturbance, attornment) | checklist §11 |
+| Exclusive use / co-tenancy, radius restrictions | checklist §11 |
+
+Operator handoffs already include a contact sheet for the **landlord property manager**, insurance broker, HVAC vendor, and attorney ... because lease obligations only work if someone is tracking them in operations. See [handoff-and-documentation](docs/handoff-and-documentation.md).
+
 ## Links
 
 | Resource | URL |

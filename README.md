@@ -2,7 +2,9 @@
 
 Public process notes for **commercial lease work** ... the clause-level, low-visibility precision that compounds over years. Not legal advice. Not a document dump. A working notebook on how to read, track, and hand off lease obligations so the people operating the business actually understand what they signed.
 
-**Maintainer:** [Jade Zhao](https://github.com/jadexzhao) · Informatics @ IU Luddy · May 2027 · [@zhao.langxi](https://instagram.com/zhao.langxi)
+**Maintainer:** [Jade Zhao](https://github.com/zhao-langxi) · Informatics @ Indiana University · Luddy HIEP Scholar · Expected May 2027 · [@zhao.langxi](https://instagram.com/zhao.langxi)
+
+Essays + research door: [zhao-langxi.github.io/zhao-langxi](https://zhao-langxi.github.io/zhao-langxi/) · [resume (PDF)](https://jlzhao.pages.iu.edu/resume.pdf)
 
 ## Why this repo exists
 

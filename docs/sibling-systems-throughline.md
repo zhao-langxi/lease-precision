@@ -47,7 +47,7 @@ Together they are bookmarks for **how I work** ... not a startup pitch deck.
 
 - [Briefcase · throughline](https://jadexzhao.github.io/jadexzhao/)
 - [How I work](https://jadexzhao.github.io/jadexzhao/how-i-work.html)
-- [LinkedIn](https://www.linkedin.com/in/jadexzhao/)
+- [LinkedIn](https://www.linkedin.com/in/zhao-langxi/)
 
 ## See also
 
